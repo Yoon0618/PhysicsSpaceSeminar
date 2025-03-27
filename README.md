@@ -16,11 +16,11 @@
 
 ## SeminarGoal
 
-+EssentialGoal
++ EssentialGoal
 	+ 반도체 공정 전반의 이해
 	+ 기초 플라즈마 물리
 
-+AdvancedGoal
++ AdvancedGoal
 	+ 플라즈마 에칭 및 증착
 	+ 플라즈마 진단
 
