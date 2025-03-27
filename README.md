@@ -1,6 +1,6 @@
 
 # SeminarGroupTable
-|플라즈마 반도체 공정 세미나|핵융합로 시뮬레이션 세미나|
+|[플라즈마 반도체 공정 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/blob/main/README.md#seminargroupname)|핵융합로 시뮬레이션 세미나|
 |--|--|
 |SeminarGroupName|SeminarGroupName|
 
