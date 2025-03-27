@@ -1,31 +1,32 @@
 
 # SeminarGroupTable
-|[플라즈마 반도체 공정 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/blob/main/README.md#seminargroupname)|핵융합로 시뮬레이션 세미나|
-|--|--|
-|SeminarGroupName|SeminarGroupName|
+[플라즈마 반도체 공정 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/blob/main/README.md#seminargroupname)|핵융합로 시뮬레이션 세미나
+:---|:---
+세미나3|세미나4
 
 # SeminarGroupName
 
 > 코멘트
 
-## SeminarGroupField
+## 분야
 + 고체물리
 	+ 반도체
 		+ 반도체 공정
 + 플라즈마 물리
 
-## SeminarGoal
+## 목표
 
-+ EssentialGoal
++ 기본 목표
 	+ 반도체 공정 전반의 이해
 	+ 기초 플라즈마 물리
 
-+ AdvancedGoal
++ 심화 목표
 	+ 플라즈마 에칭 및 증착
 	+ 플라즈마 진단
 
 ## SeminarInfo
-|조장|임세하|
-|--|--|
-|연락처|01000000000|
-|신청인원/정원|1/5|
+조장|임세하
+:---|:---
+연락처|01000000000
+신청인원/정원|1/5
+
