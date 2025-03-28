@@ -1,5 +1,5 @@
 
-# 세미나 그룹 목록
+# 0. 세미나 그룹 목록
 [1. 반도체 전공정 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/blob/main/README.md#1-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%84%EA%B3%B5%EC%A0%95-%EC%84%B8%EB%AF%B8%EB%82%98)|세미나2
 :---|:---
 세미나3|세미나4
