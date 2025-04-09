@@ -3,7 +3,7 @@
 이 페이지에서는 현재 신청된 세미나에 대한 정보를 확인하실 수 있습니다.
 [1. 반도체 전공정 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/blob/main/README.md#1-%EB%B0%98%EB%8F%84%EC%B2%B4-%EC%A0%84%EA%B3%B5%EC%A0%95-%EC%84%B8%EB%AF%B8%EB%82%98)|[2. 핵융합 시뮬레이션 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/blob/main/README.md#2-%ED%95%B5%EC%9C%B5%ED%95%A9-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98-%EC%84%B8%EB%AF%B8%EB%82%98)
 :---|:---
-[3. 산업공학 차트통계 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/edit/main/README.md#3-%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99-%EC%84%B8%EB%AF%B8%EB%82%98)|
+[3. 산업공학 차트통계 세미나](https://github.com/Yoon0618/PhysicsSpaceSeminar/blob/main/README.md#3-%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99-%EC%84%B8%EB%AF%B8%EB%82%98)|
 
 # 1. 반도체 전공정 세미나
 
